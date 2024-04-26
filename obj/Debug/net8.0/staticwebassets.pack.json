@@ -1,0 +1,2481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LabFive.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LabFive.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\components\\navbar\\navbar-dropdowns.css",
+      "PackagePath": "staticwebassets\\Backend\\components\\navbar\\navbar-dropdowns.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\components\\sidebar\\sidebar-default.css",
+      "PackagePath": "staticwebassets\\Backend\\components\\sidebar\\sidebar-default.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\css\\auth.css",
+      "PackagePath": "staticwebassets\\Backend\\css\\auth.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\css\\error.css",
+      "PackagePath": "staticwebassets\\Backend\\css\\error.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\css\\master.css",
+      "PackagePath": "staticwebassets\\Backend\\css\\master.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\font\\Lato-Regular.eot",
+      "PackagePath": "staticwebassets\\Backend\\font\\Lato-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\font\\Lato-Regular.ttf",
+      "PackagePath": "staticwebassets\\Backend\\font\\Lato-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\font\\Lato-Regular.woff",
+      "PackagePath": "staticwebassets\\Backend\\font\\Lato-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\img\\bootstraper-logo.png",
+      "PackagePath": "staticwebassets\\Backend\\img\\bootstraper-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\img\\download.svg",
+      "PackagePath": "staticwebassets\\Backend\\img\\download.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\img\\image-wide.svg",
+      "PackagePath": "staticwebassets\\Backend\\img\\image-wide.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\charts.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\charts.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\dashboard-charts.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\dashboard-charts.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\form-validator.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\form-validator.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\fullcalendar-script.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\fullcalendar-script.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\initiate-datatables.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\initiate-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\initiate-summernote.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\initiate-summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\initiate-toast.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\initiate-toast.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\js\\script.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\css\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\css\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\css\\datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.cs.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.cs.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.da.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.da.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.de.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.de.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.en.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.es.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.es.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.fi.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.fi.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.fr.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.fr.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.hu.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.hu.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.nl.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.nl.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.pl.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.pl.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.pt-BR.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.pt.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.pt.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.ro.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.ro.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.sk.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.sk.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.zh.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\airdatepicker\\js\\i18n\\datepicker.zh.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\chartsjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\chartsjs\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\chartsjs\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\chartsjs\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\chartsjs\\chart.esm.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\chartsjs\\chart.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\chartsjs\\chart.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\chartsjs\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\chartsjs\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\chartsjs\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\chartsjs\\helpers.esm.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\chartsjs\\helpers.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\DataTables-1.10.25\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\css\\responsive.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\Responsive-2.2.9\\js\\responsive.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\datatables.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\datatables.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\es-ca.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\es-ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\es-ga.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\es-ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\et.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\eu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fi.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fj.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fo.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ga.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gd.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ge.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gh.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gi.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gp.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gq.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gs.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gy.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ht.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\id.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ie.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\il.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\im.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\io.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\iq.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ir.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\is.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\it.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\je.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\jm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\jo.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\jp.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ke.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kh.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ki.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\km.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kp.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ky.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\la.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lb.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\li.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ls.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lv.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ly.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ma.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\md.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\me.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mh.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ml.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mo.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mp.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mq.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ms.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mv.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mx.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\my.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\na.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ne.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ng.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ni.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\no.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\np.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\om.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pa.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pe.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ph.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ps.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\py.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\qa.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\re.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ro.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\rs.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ru.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\rw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sa.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sb.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sd.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\se.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sh.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\si.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sj.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\so.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ss.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\st.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sv.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sx.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sy.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\td.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\th.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tj.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tl.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\to.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tr.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tv.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ua.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ug.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\um.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\un.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\uy.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\uz.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\va.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vc.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ve.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vg.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vi.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vn.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vu.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\wf.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ws.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\xk.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\xk.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ye.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\yt.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\za.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\zm.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\flagiconcss\\flags\\4x3\\zw.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\flagiconcss\\flags\\4x3\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\mdtimepicker\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\mdtimepicker\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\mdtimepicker\\mdtimepicker-theme.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\mdtimepicker\\mdtimepicker-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\mdtimepicker\\mdtimepicker.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\mdtimepicker\\mdtimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\mdtimepicker\\mdtimepicker.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\mdtimepicker\\mdtimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\mdtimepicker\\mdtimepicker.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\mdtimepicker\\mdtimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Backend\\vendor\\mdtimepicker\\mdtimepicker.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendor\\mdtimepicker\\mdtimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Frontend\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\css\\style.css",
+      "PackagePath": "staticwebassets\\Frontend\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\Frontend\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\Frontend\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\payment.png",
+      "PackagePath": "staticwebassets\\Frontend\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\Frontend\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\Frontend\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\js\\main.js",
+      "PackagePath": "staticwebassets\\Frontend\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Frontend\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\Frontend\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Frontend\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LabFive.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LabFive.props",
+      "PackagePath": "build\\LabFive.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LabFive.props",
+      "PackagePath": "buildMultiTargeting\\LabFive.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LabFive.props",
+      "PackagePath": "buildTransitive\\LabFive.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

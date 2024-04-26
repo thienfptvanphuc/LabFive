@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B9AAA1-8DC5-4AA3-BB6F-D924CCB6838C}|LabFive.csproj|c:\\users\\nhan\\desktop\\asp-inclass\\labfive\\areas\\system\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B9AAA1-8DC5-4AA3-BB6F-D924CCB6838C}|LabFive.csproj|solutionrelative:areas\\system\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B9AAA1-8DC5-4AA3-BB6F-D924CCB6838C}|LabFive.csproj|c:\\users\\nhan\\desktop\\asp-inclass\\labfive\\areas\\system\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B9AAA1-8DC5-4AA3-BB6F-D924CCB6838C}|LabFive.csproj|solutionrelative:areas\\system\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B9AAA1-8DC5-4AA3-BB6F-D924CCB6838C}|LabFive.csproj|c:\\users\\nhan\\desktop\\asp-inclass\\labfive\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B9AAA1-8DC5-4AA3-BB6F-D924CCB6838C}|LabFive.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\Areas\\System\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\System\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\Areas\\System\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\System\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T13:54:56.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:58:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\Areas\\System\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\System\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\nhan\\Desktop\\ASP-Inclass\\LabFive\\Areas\\System\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\System\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:21:59.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

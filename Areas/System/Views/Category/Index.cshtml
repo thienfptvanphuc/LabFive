@@ -1,0 +1,57 @@
+﻿@model IEnumerable<LabFive.Models.Category>;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/System/Views/Layout/Backend.cshtml";
+}
+
+<div class="container">
+    <div class="page-title">
+        <h3>List Category</h3>
+    </div>
+    <div class="row">
+        <div class="col-md-12 col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <a asp-action="add" class="btn btn-success">
+                        Add category
+                    </a>
+                </div>
+                <div class="card-body">
+                    <p class="card-title"></p>
+                    <table class="table table-hover"
+                           id="dataTables-example"
+                           width="100%">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Slug</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+
+                                <tr>
+                                    <td>@item.Id</td>
+                                    <td>@item.Name</td>
+                                    <td>@item.Des</td>
+                                    <td>@item.Status</td>
+                                    <td>
+                                        <a asp-controller="Category" asp-action="Edit" asp-route-id="@item.Id">Edit | </a>
+                                        <a asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
